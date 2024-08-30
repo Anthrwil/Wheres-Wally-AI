@@ -1,0 +1,5 @@
+﻿  Where's Wally.cpp
+f:\level 2\object-oriented programming\where's wally\where's wally\where's wally.cpp(45): warning C4018: '>': signed/unsigned mismatch
+f:\level 2\object-oriented programming\where's wally\where's wally\where's wally.cpp(20): warning C4101: 'maxPosX': unreferenced local variable
+f:\level 2\object-oriented programming\where's wally\where's wally\where's wally.cpp(20): warning C4101: 'maxPosY': unreferenced local variable
+  Where's Wally.vcxproj -> F:\Level 2\Object-Oriented Programming\Where's Wally\Debug\Where's Wally.exe
